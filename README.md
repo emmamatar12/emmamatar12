@@ -1,5 +1,3 @@
-## Que tal 👋
-
 # Hola 👋 Soy Emmanuel Mata
 
 🚀 Analista de Datos y Profesional de Datos orientado al negocio  
