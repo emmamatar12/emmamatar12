@@ -1,67 +1,67 @@
-## Hi there 👋
+## Que tal 👋
 
-# Hello 👋 I'm Emmanuel Mata
+# Hola 👋 Soy Emmanuel Mata
 
-🚀 Data Analyst & Business-Oriented Data Professional  
-📊 Focused on Analytics, Predictive Modeling and Strategic Insights  
-🧠 Background in Literature, Marketing and Data Science  
-
----
-
-## About Me
-
-I combine analytical thinking with strategic and creative reasoning.
-
-My work focuses on transforming raw data into structured insights that support decision-making in business environments. I am particularly interested in:
-
-- Sales analytics  
-- Predictive modeling  
-- Customer segmentation  
-- Business intelligence dashboards  
-- Data storytelling  
-
-Currently expanding my expertise in advanced modeling techniques and real-world data applications.
+🚀 Analista de Datos y Profesional de Datos orientado al negocio  
+📊 Enfocado en analítica, modelado predictivo e insights estratégicos  
+🧠 Formación en Literatura, Marketing y Ciencia de Datos  
 
 ---
 
-## Technical Stack
+## Sobre mí
 
-### Programming & Query Languages
+Combino el pensamiento analítico con el razonamiento estratégico y creativo.
+
+Mi trabajo se enfoca en transformar datos en bruto en insights estructurados que apoyen la toma de decisiones en entornos de negocio. Estoy particularmente interesado en:
+
+- Análisis de ventas  
+- Modelado predictivo  
+- Segmentación de clientes  
+- Dashboards de inteligencia de negocio  
+- Narrativa con datos  
+
+Actualmente estoy ampliando mi experiencia en técnicas avanzadas de modelado y aplicaciones de datos en contextos reales.
+
+---
+
+## Stack Técnico
+
+### Lenguajes de programación y consulta
 - Python  
 - SQL  
 
-### Data & Analytics
+### Datos y analítica
 - Pandas  
 - NumPy  
 - Scikit-learn  
 - Matplotlib  
 - Seaborn  
 
-### Business Intelligence
+### Inteligencia de negocio
 - Power BI  
 - DAX  
 
-### Tools
-- Git & GitHub  
+### Herramientas
+- Git y GitHub  
 - SQL Server  
 - Jupyter Notebook  
 
 ---
 
-## Professional Focus
+## Enfoque profesional
 
-I approach projects with a structured methodology:
+Abordo los proyectos con una metodología estructurada:
 
-- Data cleaning & transformation  
-- Exploratory analysis  
-- Feature engineering  
-- Modeling & evaluation  
-- Business interpretation  
+- Limpieza y transformación de datos  
+- Análisis exploratorio  
+- Ingeniería de variables  
+- Modelado y evaluación  
+- Interpretación de negocio  
 
-I document both successes and mistakes as part of my analytical process.
+Documento tanto los aciertos como los errores como parte de mi proceso analítico.
 
 ---
 
-## Contact
+## Contacto
 
-📩 Email: emmanuelmata111@gmail.com
+📩 Correo electrónico: emmanuelmata111@gmail.com
